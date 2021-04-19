@@ -1,2 +1,2 @@
-# helloworld.github.io
+# helloworld
 publishing a test site on Github pages
